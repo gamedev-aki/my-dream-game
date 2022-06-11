@@ -1,0 +1,6 @@
+this is currently not on github. 
+
+we can add it to github using
+
+git add .
+git commit -m "adding this to github!"
